@@ -1,0 +1,11 @@
+{
+  "name": "genpark-agent-mcp-tool-permission-least-privilege-auditor-skill",
+  "version": "1.0.0",
+  "description": "Agent MCP tool permission least-privilege auditor with blast radius scoring, privilege escalation chain detection, and capability matrix verification.",
+  "tools": [
+    {
+      "name": "audit_tool_manifest",
+      "description": "Audit tool registry schemas for privilege escalation risks."
+    }
+  ]
+}
